@@ -23,7 +23,7 @@ public class Perfect_Number {
             }
         }
         if (sum == perfectCheck) {
-            System.out.println("The number is Perfect Number");
+            System.out.println("The number is erfect Number");
         } else {
             System.out.println("The number is not Perfect Number");
         }
